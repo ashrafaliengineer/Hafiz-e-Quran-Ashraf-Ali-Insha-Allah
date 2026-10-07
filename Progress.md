@@ -9,7 +9,7 @@ Learning order: **Shortest Surah → Longest Surah**
 
 ## 🟢 3 Ayahs
 
-- [x] **103 — Al-'Asr** — 3 Ayahs
+- [x] **103 — Al-'Asr** — 3 Ayahs  `07/10/26`
 - [ ] **108 — Al-Kawthar** — 3 Ayahs
 - [ ] **110 — An-Nasr** — 3 Ayahs
 
@@ -32,7 +32,7 @@ Learning order: **Shortest Surah → Longest Surah**
 
 ## 🟢 7 Ayahs
 
-- [x] **1 — Al-Fatihah** — 7 Ayahs
+- [x] **1 — Al-Fatihah** — 7 Ayahs    --> 07-10-26
 - [ ] **107 — Al-Ma'un** — 7 Ayahs
 
 ## 🟢 8 Ayahs
@@ -363,7 +363,7 @@ Learning order: **Shortest Surah → Longest Surah**
 ## how to calculate the percentage of progress
 
 ```text
-if you have completed 6 Ayahs out of 6,236  --> (6/(6,236))*100 = 0.096%
+I have completed 10 Ayahs out of 6,236  --> (10/(6,236))*100 = 0.0016035920461835% - Alhamdulillha
 ```
 ### Legend
 
